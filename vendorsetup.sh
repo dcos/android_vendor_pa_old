@@ -37,3 +37,4 @@ add_lunch_combo pa_umts_spyder-userdebug
 add_lunch_combo pa_i9100g-userdebug
 add_lunch_combo pa_galaxysmtd-userdebug
 add_lunch_combo pa_ariesve-userdebug
+add_lunch_combo pa_p880-userdebug
