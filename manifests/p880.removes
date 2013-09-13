@@ -1,2 +1,10 @@
 [
+	{
+        "name":     "ParanoidAndroid/android_vendor_pa",
+        "path":     "vendor/pa"
+    },
+		{
+        "name":     "CyanogenMod/android_hardware_libhardware",
+        "path":     "hardware/libhardware"
+    },
 ]
