@@ -41,6 +41,5 @@
         "repository":   "android_vendor_pa",
         "target_path":  "vendor/pa",
         "revision":     "jb43-legacy"
-    },
-
+    }
 ]

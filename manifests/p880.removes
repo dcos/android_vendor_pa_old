@@ -6,5 +6,5 @@
 		{
         "name":     "CyanogenMod/android_hardware_libhardware",
         "path":     "hardware/libhardware"
-    },
+    }
 ]
