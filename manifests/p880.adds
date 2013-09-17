@@ -9,7 +9,7 @@
     },
     {
         "remote":       "github",
-        "account":      "CyanogenMod",
+        "account":      "dcos",
         "repository":   "lge-kernel-p880",
         "target_path":  "kernel/lge/p880",
         "revision":     "cm-10.2"
