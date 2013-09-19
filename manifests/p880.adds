@@ -31,13 +31,6 @@
 	{
         "remote":       "github",
         "account":      "dcos",
-        "repository":   "android_hardware_libhardware",
-        "target_path":  "hardware/libhardware",
-        "revision":     "cm-10.2"
-    },
-	{
-        "remote":       "github",
-        "account":      "dcos",
         "repository":   "android_vendor_pa",
         "target_path":  "vendor/pa",
         "revision":     "jb43-legacy"
