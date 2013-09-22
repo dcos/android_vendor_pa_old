@@ -44,4 +44,5 @@ PRODUCT_PACKAGES += \
 
 # rsync
 PRODUCT_PACKAGES += \
-    rsync
+    rsync \
+    Torch
